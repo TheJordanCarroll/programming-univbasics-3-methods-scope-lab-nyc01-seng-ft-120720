@@ -15,7 +15,7 @@ def link
 end
 
 def all_phrases
-  puts def mario
-  puts def toadstool 
-  puts def link
+  def mario
+  def toadstool 
+  def link
 end
